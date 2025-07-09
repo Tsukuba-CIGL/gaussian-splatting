@@ -139,6 +139,11 @@ https://www.dllme.com/dll/files/cudart64_12
 に置く．  
 これでビルドが通るはず．
 
+# 参考記事
+3D Gaussian Splatting (3DGS) の使い方 生成方法 – Windows環境構築  
+https://lilea.net/lab/how-to-setup-3d-gaussian-splatting/  
+3D Gaussian Splattingをやってみる(Windows11での環境構築)  
+https://note.com/thinkandcraft/n/n62f89885a550  
 
 
    
