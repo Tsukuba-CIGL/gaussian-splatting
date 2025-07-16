@@ -107,6 +107,9 @@ conda env create --file environment.yml
 
 
 ## ビューワのビルド
+windowsの場合はビューワがgit hubで配布されているのでそれを用いればよい．
+ビューワも自分でビルドする場合は下記の手順で行う．  
+
 次を実行する．カレントディレクトリはgaussian-splatting内のSIBR_viewers
 ```shell
 cd SIBR_viewers
@@ -137,7 +140,7 @@ https://www.dllme.com/dll/files/cudart64_12
 ./<SIBR install dir>/bin/CUDART64_12.DLL
 ```
 に置く．  
-これでビルドが通るはず．
+これでビルドが通るはず．  
 
 # 参考記事
 3D Gaussian Splatting (3DGS) の使い方 生成方法 – Windows環境構築  
